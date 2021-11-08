@@ -1,5 +1,6 @@
 {
   "name": "buildspace-solana",
+  "homepage": "https://simonlee2.github.io/gif-portal-starter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
